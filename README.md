@@ -13,8 +13,6 @@
 ```
 UAS_DP_[NIM1]_[NIM2]
 ```
-- Di dalam repository, wajib memiliki file `README.md` yang memuat:
-  - Nama anggota dan NIM
 - Setelah upload, kirim link repository ke Google Form berikut:  
   🔗 Link Pengumpulan Google Form : **https://intip.in/PengumpulanUTSDP6**
 
